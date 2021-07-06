@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/pusheen.jpg</file>
+        <file>picture/magicBall.jpg</file>
+        <file>picture/board.png</file>
+        <file>picture/monster.png</file>
+        <file>picture/rock.jpg</file>
+        <file>picture/plus.jpeg</file>
+        <file>picture/clear.png</file>
+        <file>picture/gameover.jpeg</file>
+        <file>picture/boardB.png</file>
+    </qresource>
+</RCC>
